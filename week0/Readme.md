@@ -37,18 +37,18 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt Text](Images/iverilog.png)
+![Alt Text](images/iverilog.png)
 
 #### <ins>**gtkwave**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![Alt Text](Images/gtkwave.png)
+![Alt Text](images/gtkwave.png)
 
 #### <ins>**Ngspice**</ins>
 ```bash
 $ sudo apt update
 $ sudo apt install ngspice
 ```
-![Alt Text](Images/ngspice.png)
+![Alt Text](images/ngspice.png)
