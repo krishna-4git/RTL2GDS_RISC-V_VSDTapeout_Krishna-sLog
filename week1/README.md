@@ -166,7 +166,7 @@ RTL_Workshop/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/srivastavasneha004/RTL_Workshop.git
+git clone https://github.com/krishna-4git/RTL2GDS_RISC-V_VSDTapeout_Krishna-sLog
 cd RTL_Workshop
 ```
 
@@ -224,13 +224,6 @@ Under the following terms:
 
 ---
 
-## Author
-
-**Sneha Srivastava**
-- GitHub: [@srivastavasneha004](https://github.com/srivastavasneha004)
-- Repository: [RTL_Workshop](https://github.com/srivastavasneha004/RTL_Workshop)
-
----
 
 ## 🚀 Ready to Start?
 
