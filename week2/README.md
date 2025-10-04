@@ -154,4 +154,4 @@ In the upcoming weeks, I will dive into **Physical Design (PD) flow**, timing cl
 [![RISC-V](https://img.shields.io/badge/RISC--V-International-green?style=flat-square)](https://riscv.org/)  
 [![Efabless](https://img.shields.io/badge/Efabless-Platform-orange?style=flat-square)](https://efabless.com/)
 
-**👨‍💻 Participant:** [VEERARAGAVAN7](https://github.com/krishna-4git)
+**👨‍💻 Participant:** [krishna-4git](https://github.com/krishna-4git)
