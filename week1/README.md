@@ -165,10 +165,7 @@ RTL_Workshop/
 ## Getting Started
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/srivastavasneha004/RTL_Workshop.git
-cd RTL_Workshop
-```
+
 
 ### 2. Set Up Your Environment
 ```bash
@@ -224,6 +221,7 @@ Under the following terms:
 
 ---
 
+<<<<<<< HEAD
 ## Author
 
 **Sneha Srivastava**
@@ -231,6 +229,8 @@ Under the following terms:
 - Repository: [RTL_Workshop](https://github.com/srivastavasneha004/RTL_Workshop)
 
 ---
+=======
+>>>>>>> dfba4d33a3abecc09b98acc8398318de866c6f59
 
 ## 🚀 Ready to Start?
 
@@ -244,4 +244,8 @@ Begin your RTL design journey with [Day 1: Introduction to Verilog RTL Design & 
 
 *Happy Learning! 🎯*
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> dfba4d33a3abecc09b98acc8398318de866c6f59
