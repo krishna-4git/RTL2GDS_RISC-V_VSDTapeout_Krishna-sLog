@@ -224,7 +224,7 @@ Under the following terms:
 <<<<<<< HEAD
 ## Author
 
-**MOHAN Krishna**
+**MOHAN KRISHNA**
 - GitHub: [@](https://github.com/krishna-4git)
 - Repository: [RTL_Workshop](https://github.com/krishna-4git/RTL_Workshop)
 
