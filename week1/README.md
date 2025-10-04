@@ -244,8 +244,3 @@ Begin your RTL design journey with [Day 1: Introduction to Verilog RTL Design & 
 
 *Happy Learning! 🎯*
 
-<<<<<<< HEAD
-</div>
-=======
-</div>
->>>>>>> dfba4d33a3abecc09b98acc8398318de866c6f59
